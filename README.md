@@ -9,11 +9,11 @@ I am new to coding and this is my attempt at completing the "easier" homework as
 
 # Contact
 ```sh
-Homepage: https://github.com/thuyngavo/thuyngavo.github.io
+Homepage: [https://github.com/thuyngavo/thuyngavo.github.io]
 ```
 ```sh
-e-mail: lisa.vo49@gmail.com
+e-mail: [lisa.vo49@gmail.com]
 ```
 ```sh
-LinkedIn: https://www.linkedin.com/in/lisa-vo-86a94341/
+LinkedIn: [https://www.linkedin.com/in/lisa-vo-86a94341/]
 ```
