@@ -9,21 +9,23 @@
     margin-right: 20%;
 
   }
+
   
 header {
+  position: static;
     padding: 20px;
     margin-bottom: 20px;
     color: #333;
     background: #ebebeb;
-    width: 100%;
   }
 
 nav{
-    padding: 20px;
-    margin-bottom: 20px;
-    color: #333;
-    background: #ebebeb;
-    width: 100%;
+  position: static;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ebebeb;
+  
   }
   
 section {
@@ -53,20 +55,22 @@ section {
   }
   
 #aside {
-    padding: 20px;
-    width: 40%;
     height: 260px;
+    margin-bottom: 20px;
+    width: 40%;
     color: black;
     background: #ebebeb;
     float: right;
+    padding: 20px;
   }
   
 footer {
-    padding: 20px;
-    margin-bottom: 20px;
-    color: #333;
-    background: #ebebeb;
-    width: 100%;
-    overflow: auto;
+  clear: both;
+  position: static;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ebebeb;
+
   }
   
