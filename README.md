@@ -15,5 +15,5 @@ Homepage: [https://github.com/thuyngavo/thuyngavo.github.io]
 e-mail: [lisa.vo49@gmail.com]
 ```
 ```sh
-LinkedIn: [https://www.linkedin.com/in/lisa-vo-86a94341/]
+LinkedIn: [https://www.linkedin.com/in/lisa-vo-86a94341/][df1]
 ```
