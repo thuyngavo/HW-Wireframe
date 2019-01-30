@@ -5,4 +5,4 @@ This homework assignment requires me to building a wireframe using the image pro
 @thuyngavo
 
 # About
-I am new to coding and this is a sample of what I have learned so far. 
+I am new to coding and this is my attempt at completing the "easier" homework assignment.
